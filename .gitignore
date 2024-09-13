@@ -5,6 +5,7 @@
 .packages
 build/
 android/
+windows/
 ios/
 web/
 .idea/
