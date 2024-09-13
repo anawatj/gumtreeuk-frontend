@@ -17,12 +17,12 @@
 .pub-cache/
 .pub/
 /build/
-/android/
-/ios/
-/linux/
-/macos/
-/windows/
-/web/
+android/
+ios/
+linux/
+macos/
+windows/
+web/
 
 # Web related
 lib/generated_plugin_registrant.dart
