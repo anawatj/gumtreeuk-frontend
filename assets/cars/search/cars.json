@@ -1,0 +1,40 @@
+{
+    "searchResults": [
+      {
+        "id": "221843",
+        "name": "Nissan Juke",
+        "title": "Nice car for sale",
+        "make": "Nissan",
+        "model": "Juke",
+        "year": "2020",
+        "price": "£212.00"
+      },
+      {
+        "id": "397286",
+        "name": "Nissan Juke",
+        "title": "Used car in mint condition",
+        "make": "Nissan",
+        "model": "Juke",
+        "year": "2020",
+        "price": "£201.00"
+      },
+      {
+        "id": "390251",
+        "name": "Nissan Juke",
+        "title": "Low mileage car for sale",
+        "make": "Nissan",
+        "model": "Juke",
+        "year": "2020",
+        "price": "£307.00"
+      },
+      {
+        "id": "012565",
+        "name": "Nissan Juke",
+        "title": "Car for sale with unique specs",
+        "make": "Nissan",
+        "model": "Juke",
+        "year": "2020",
+        "price": "£389.00"
+      }
+    ]
+  }
